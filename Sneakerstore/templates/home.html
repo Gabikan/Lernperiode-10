@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Sneakerstore</title>
+</head>
+<body>
+    <h1>Alle Sneaker im Store</h1>
+    <ul>
+        {% for sneaker in sneakers %}
+            <li>
+                <strong>{{ sneaker.name }}</strong><br>
+                Marke: {{ sneaker.brand.name }}<br>
+                Größe: {{ sneaker.size }}<br>
+                Farbe: {{ sneaker.color }}<br>
+                Typ: {{ sneaker.type }}
+            </li>
+            <hr>
+        {% endfor %}
+    </ul>
+</body>
+</html>
