@@ -27,6 +27,7 @@ Ausgehend von Ihren Erfahrungen vom 25.4, welche features brauchen noch mehr Rec
 - [ ] Verbesserung der Suchfunktion
 - [ ] Erweiterung der Kategorisierung
 - [ ] Mit herr colic Finanztracker anschauen
+
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen.
@@ -85,7 +86,7 @@ Ihr Projekt sollte nun alle Funktionalität haben, dass man es benutzen kann. Al
 20.6
 Was fehlt Ihrem fertigen Projekt noch, um es auszuliefern? Reicht die Zeit für ein nice-to-have feature?
 
-- [ ] ...
+- [ ] 
 Bereiten Sie in den verbleibenden 2 AP Ihre Präsentation vor
 
 - [ ] Materialien der Präsentation vorbereiten
