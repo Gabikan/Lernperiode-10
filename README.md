@@ -23,12 +23,13 @@ mit dem Proof of Concept angefangen und die drei Features Kategorisieren, Suchfu
 2.5
 Ausgehend von Ihren Erfahrungen vom 25.4, welche features brauchen noch mehr Recherche? (Sie können auch mehrere AP für ein feature aufwenden.)
 
-- [ ] Neue Produkt erfinden(📵)
-- [ ] Verbesserung der Suchfunktion
-- [ ] Erweiterung der Kategorisierung
-- [ ] Mit herr colic Finanztracker anschauen
+- [x] Neue Produkt erfinden(📵)
+- [x] Verbesserung der Suchfunktion
+- [x] Erweiterung der Kategorisierung
+- [x] Mit herr colic Finanztracker anschauen
 
 ✍️ Heute habe ich... (50-100 Wörter)
+die Projektstruktur für meinen Sneakerstore erstellt, Flask installiert und eine SQLite-Datenbank mit SQLAlchemy angelegt. Ich habe ein Datenmodell für Sneaker und Marken definiert, eine erste Flask-App geschrieben und ein HTML-Template erstellt, das Sneaker anzeigt. Nach einem kleinen Fehler mit dem Template habe ich diesen erfolgreich behoben. Außerdem habe ich 50 realistische Sneaker-Testdatensätze als Excel-Datei generiert, um später meine Anwendung sinnvoll testen zu können.
 
 ☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen.
 
@@ -40,9 +41,9 @@ Kern-Funktionalität
 Kern-Funktionalität
 Diese Kern-Funktionalitäten brechen Sie nun in etwa 4 AP je herunter. Versuchen Sie jetzt bereits, auch die Sitzung vom 16.5 und 23.5 zu planen (im Wissen, dass Sie kleine Anpassungen an Ihrer Planung vornehmen können).
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Testdaten in die Datenbank einfügen
+- [ ] Such- und Filterfunktionen programmieren
+- [ ] Formular zum Hinzufügen neuer Sneaker erstellen
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen.
