@@ -36,9 +36,9 @@ die Projektstruktur für meinen Sneakerstore erstellt, Flask installiert und ein
 9.5
 Planen Sie nun Ihr Projekt, sodass die Kern-Funktionalität in 3 Sitzungen realisiert ist. Schreiben Sie dazu zunächst 3 solche übergeordneten Kern-Funktionalitäten auf:
 
-Kern-Funktionalität
-Kern-Funktionalität
-Kern-Funktionalität
+Kategorisieren
+Suchfunktion
+Neues einfügen 
 Diese Kern-Funktionalitäten brechen Sie nun in etwa 4 AP je herunter. Versuchen Sie jetzt bereits, auch die Sitzung vom 16.5 und 23.5 zu planen (im Wissen, dass Sie kleine Anpassungen an Ihrer Planung vornehmen können).
 
 - [ ] Testdaten in die Datenbank einfügen
@@ -49,19 +49,19 @@ Diese Kern-Funktionalitäten brechen Sie nun in etwa 4 AP je herunter. Versuchen
 ☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen.
 
 16.5
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen.
 
 23.5
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] 
+- [ ] 
+- [ ]
+- [ ] 
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen.
