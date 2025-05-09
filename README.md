@@ -44,17 +44,18 @@ Planen Sie nun Ihr Projekt, sodass die Kern-Funktionalität in 3 Sitzungen reali
 
 Diese Kern-Funktionalitäten brechen Sie nun in etwa 4 AP je herunter. Versuchen Sie jetzt bereits, auch die Sitzung vom 16.5 und 23.5 zu planen (im Wissen, dass Sie kleine Anpassungen an Ihrer Planung vornehmen können).
 
-- [ ] Testdaten in die Datenbank einfügen
+- [x] Testdaten in die Datenbank einfügen
 - [ ] Such- und Filterfunktionen programmieren
 - [ ] Formular zum Hinzufügen neuer Sneaker erstellen
 ✍️ Heute habe ich... (50-100 Wörter)
+leider nicht so viel erledigt und bin nicht weit gekommen ich musste heute Bugs fixen vom letzten Mal und konnte leider das Tutorial Formular nicht erledigen und muss es deshalb nächstes Mal weitermachen. Testdaten habe ich aber schon mal eingefügt. Ich habe auch ein bisschen nachdem ich mit Herr Colic geredet habe kurz mein GitHub ausgeputzt.
 
 ☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen.
 
 ## 16.5
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Formular zum Hinzufügen neuer Sneaker erstellen
+- [ ] Such- und Filterfunktionen programmieren
+- [ ] css stylen
 - [ ] 
 ✍️ Heute habe ich... (50-100 Wörter)
 
