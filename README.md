@@ -53,19 +53,17 @@ leider nicht so viel erledigt und bin nicht weit gekommen ich musste heute Bugs 
 ☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen.
 
 ## 16.5
-- [ ] Formular zum Hinzufügen neuer Sneaker erstellen
-- [ ] Such- und Filterfunktionen programmieren
-- [ ] css stylen
-- [ ] 
+- [x] Formular zum Hinzufügen neuer Sneaker erstellen
+- [x] Such- und Filterfunktionen programmieren
+- [x] css stylen
 ✍️ Heute habe ich... (50-100 Wörter)
-
+das Formular beendet um das hinzufügen von Sneakern zu vereinfachen, die Such und Filterfunktion fertig gestellt was schnell ging und mühelos und meine Website bisschen anschaulicher wirkt.
 ☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen.
 
 ## 23.5
-- [ ] 
-- [ ] 
-- [ ]
-- [ ] 
+- [ ] css Farbpalette
+- [ ] Suchfunktion Vorschlag
+- [ ] Kriterien
 ✍️ Heute habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen.
