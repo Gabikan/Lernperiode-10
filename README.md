@@ -67,7 +67,8 @@ Das Projekt und die Features beendet ich habe darüber nachgedacht das ich nachd
 - [ ] Suchfunktion vervollständigen
 - [ ] 
 ✍️ Heute habe ich... (50-100 Wörter)
-Leider hat mir die S
+Leider hat mir die Suchvorschlagfunktion Probleme bereitet weshalb ich die restlichen Arbeitspakete nicht erledigen konnte bis nächstes mal aber habe ich ein fix fertiges programm.
+
 ☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen.
 
 ## 6.6
