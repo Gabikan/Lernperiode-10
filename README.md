@@ -58,16 +58,16 @@ leider nicht so viel erledigt und bin nicht weit gekommen ich musste heute Bugs 
 - [ ] css stylen
 - [ ] 
 ✍️ Heute habe ich... (50-100 Wörter)
-
+Das Projekt und die Features beendet ich habe darüber nachgedacht das ich nachdem ich die features gefixxt habe ich noch eine Suchvorschlagfunktion einzubauen.
 ☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen.
 
 ## 23.5
-- [ ] 
-- [ ] 
-- [ ]
+- [x] Suchvorschlagfunktion
+- [ ] Filterfunktion fixxen (mehrere filter auf einmal
+- [ ] Suchfunktion vervollständigen
 - [ ] 
 ✍️ Heute habe ich... (50-100 Wörter)
-
+Leider hat mir die S
 ☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen.
 
 ## 6.6
